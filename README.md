@@ -5,4 +5,4 @@ The second model incldes a simple CNN model with pretrained model with GloVE wor
 Ironically  a simple CNN model with a pre-trained word embedding (GloVe) does better than a complex CNN model .
 
 Also as the dataset is small the network quickly overfits as is evident from accuracy 
-train : 98-100% , 98% for larger model and 100% for smaller model with GloVe embeddings.Hoever the test accuracy is around 87%. Showing that the model overfits the training data. The solution to this problem is to use a larger dataset and use of different drop outs or regularizers. 
+train : 98-100% , 98% for larger model and 100% for smaller model with GloVe embeddings.However the test accuracy is around 87%. Showing that the model overfits the training data. The solution to this problem is to use a larger dataset and use of different drop outs or regularizers. 
