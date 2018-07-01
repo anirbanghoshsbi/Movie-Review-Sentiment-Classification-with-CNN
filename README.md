@@ -1,4 +1,4 @@
-# TMovie Review Sentiment with CNNs
+# Movie Review Sentiment with CNNs
 
 We try to predict sentiment in movie reviews from the imbd dataset using CNN model. The first model includes a simple CNN with a embedding layer. 
 The second model incldes a simple CNN model with pretrained model with GloVE word embeddings that are trainable and the final model incldes a vgg style model with pre-trained GloVe vector.
